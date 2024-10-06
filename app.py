@@ -1,5 +1,6 @@
 import streamlit as st
 import streamlit.components.v1 as components
+st.set_page_config(page_title="3D Trainer", page_icon="🏋️")
 
 # Function to load 3D human model for the selected exercise
 def load_3d_exercise_model(exercise):
