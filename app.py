@@ -111,7 +111,7 @@ def main():
     # App Header with Project Name
     st.markdown(
         """
-        <div style='text-align: center; padding: 20px; background-color: #1F77B4; color: white; border-radius: 10px;'>
+        <div style='text-align: center; padding: 20px; background-color: orange; color: white; border-radius: 10px;'>
             <h1>InfoFit: Learn and Master Your Exercises!</h1>
             <p>Your ultimate virtual guide to exercise with 3D models and posture tips.</p>
         </div>
