@@ -147,7 +147,7 @@ def main():
         }
         .section-title {
             font-size: 30px;
-            color: #1F77B4;
+            color: orange;
             margin-top: 40px;
             text-align: center;
         }
